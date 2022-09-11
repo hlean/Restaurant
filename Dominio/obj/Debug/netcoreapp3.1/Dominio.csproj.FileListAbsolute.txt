@@ -1,0 +1,289 @@
+C:\Users\alumnoFI\Downloads\Obligatorio 2.0-20220426T210326Z-001\Obligatorio 2.0\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\alumnoFI\Downloads\Obligatorio 2.0-20220426T210326Z-001\Obligatorio 2.0\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio 2.0-20220426T210326Z-001\Obligatorio 2.0\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio 2.0-20220426T210326Z-001\Obligatorio 2.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\Obligatorio 2.0-20220426T210326Z-001\Obligatorio 2.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\Obligatorio 2.0-20220426T210326Z-001\Obligatorio 2.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio 2.0-20220426T210326Z-001\Obligatorio 2.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\Obligatorio 2.0-20220426T210326Z-001\Obligatorio 2.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio 2.0-20220426T210326Z-001\Obligatorio 2.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio 2.0-20220426T210326Z-001\Obligatorio 2.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Downloads\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\alumnoFI\Downloads\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Downloads\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Downloads\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.csprojAssemblyReference.cache
+C:\Users\alumnoFI\Downloads\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Downloads\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI NUEVO\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI NUEVO\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI NUEVO\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI NUEVO\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI NUEVO\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI NUEVO\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI NUEVO\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI NUEVO\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI NUEVO\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI NUEVO\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Downloads\P2-OBLI NUEVO\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\alumnoFI\Downloads\P2-OBLI NUEVO\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Downloads\P2-OBLI NUEVO\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Downloads\P2-OBLI NUEVO\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\P2-OBLI NUEVO\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\P2-OBLI NUEVO\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\P2-OBLI NUEVO\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\P2-OBLI NUEVO\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\P2-OBLI NUEVO\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Downloads\P2-OBLI NUEVO\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 --\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 --\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 --\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 --\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 --\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 --\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 --\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 --\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 --\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 --\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 ---\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 ---\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 ---\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 ---\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 ---\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 ---\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 ---\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 ---\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 ---\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 ---\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Downloads\P2-OBLI 2 ----\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\P2-OBLI 2 ----\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\P2-OBLI 2 ----\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\P2-OBLI 2 ----\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\P2-OBLI 2 ----\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\P2-OBLI 2 ----\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Downloads\P2-OBLI 2 ----\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Downloads\P2-OBLI 2 ----\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\alumnoFI\Downloads\P2-OBLI 2 ----\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Downloads\P2-OBLI 2 ----\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Downloads\P2-OBLI 2 -----\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\alumnoFI\Downloads\P2-OBLI 2 -----\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Downloads\P2-OBLI 2 -----\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Downloads\P2-OBLI 2 -----\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\P2-OBLI 2 -----\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\P2-OBLI 2 -----\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\P2-OBLI 2 -----\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\P2-OBLI 2 -----\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\P2-OBLI 2 -----\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Downloads\P2-OBLI 2 -----\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 ------\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 ------\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 ------\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 ------\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 ------\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 ------\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 ------\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 ------\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 ------\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 ------\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo - Copy (2)\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo - Copy (2)\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo - Copy (2)\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo - Copy (2)\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo - Copy (2)\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo - Copy (2)\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo - Copy (2)\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo - Copy (2)\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo - Copy (2)\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo - Copy (2)\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy - Copy\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy - Copy\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy - Copy\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy - Copy - Copy (2)\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy - Copy - Copy (2)\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy - Copy - Copy (2)\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy - Copy - Copy (2)\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy - Copy - Copy (2)\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy - Copy - Copy (2)\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy - Copy - Copy (2)\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy - Copy - Copy (2)\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy - Copy - Copy (2)\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo2 - Copy - Copy - Copy - Copy (2)\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo 2 - Copy\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo 2 - Copy\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo 2 - Copy\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo 2 - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo 2 - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo 2 - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo 2 - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo 2 - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo 2 - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo 2 - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo 2 - Copy - Copy\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo 2 - Copy - Copy\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo 2 - Copy - Copy\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo 2 - Copy - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo 2 - Copy - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo 2 - Copy - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo 2 - Copy - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo 2 - Copy - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo 2 - Copy - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + completo 2 - Copy - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3 - Copy\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3 - Copy\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3 - Copy\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3 - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3 - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3 - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3 - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3 - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3 - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3 - Copy\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3 - trabajar ahora\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3 - trabajar ahora\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3 - trabajar ahora\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3 - trabajar ahora\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3 - trabajar ahora\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3 - trabajar ahora\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3 - trabajar ahora\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3 - trabajar ahora\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3 - trabajar ahora\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 3 - trabajar ahora\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 5 - 23.00\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 5 - 23.00\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 5 - 23.00\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 5 - 23.00\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 5 - 23.00\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 5 - 23.00\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 5 - 23.00\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 5 - 23.00\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 5 - 23.00\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 5 - 23.00\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 5 - Clase\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 5 - Clase\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 5 - Clase\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 5 - Clase\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 5 - Clase\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 5 - Clase\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 5 - Clase\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 5 - Clase\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 5 - Clase\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 5 - Clase\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 6\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 6\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 6\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 6\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 6\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 6\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 6\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 6\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 6\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2 + Completo 6\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb

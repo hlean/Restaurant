@@ -1,0 +1,118 @@
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.exe
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.deps.json
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.runtimeconfig.json
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.runtimeconfig.dev.json
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.dll
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.csproj.CopyComplete
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.dll
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio 3.0 con program (LH)-20220428T110824Z-001\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.genruntimeconfig.cache
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.exe
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.deps.json
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.runtimeconfig.json
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.runtimeconfig.dev.json
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.dll
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.pdb
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.csproj.AssemblyReference.cache
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.AssemblyInfoInputs.cache
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.AssemblyInfo.cs
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.csproj.CoreCompileInputs.cache
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.csproj.CopyComplete
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.dll
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.pdb
+C:\Users\leand\Downloads\Obligatorio 4.0\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.genruntimeconfig.cache
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.exe
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.deps.json
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.runtimeconfig.json
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.dll
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.pdb
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.csproj.CopyComplete
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.dll
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.pdb
+C:\Users\leand\OneDrive\Escritorio\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.genruntimeconfig.cache
+C:\Users\alumnoFI\Downloads\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.exe
+C:\Users\alumnoFI\Downloads\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.deps.json
+C:\Users\alumnoFI\Downloads\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.runtimeconfig.json
+C:\Users\alumnoFI\Downloads\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.runtimeconfig.dev.json
+C:\Users\alumnoFI\Downloads\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.dll
+C:\Users\alumnoFI\Downloads\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.pdb
+C:\Users\alumnoFI\Downloads\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Downloads\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Downloads\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.csprojAssemblyReference.cache
+C:\Users\alumnoFI\Downloads\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.csproj.CopyComplete
+C:\Users\alumnoFI\Downloads\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.dll
+C:\Users\alumnoFI\Downloads\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.pdb
+C:\Users\alumnoFI\Downloads\Obli version lea\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.genruntimeconfig.cache
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.exe
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.deps.json
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.runtimeconfig.json
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.runtimeconfig.dev.json
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.dll
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.pdb
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.csproj.AssemblyReference.cache
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.AssemblyInfoInputs.cache
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.AssemblyInfo.cs
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.csproj.CoreCompileInputs.cache
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.csproj.CopyComplete
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.dll
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.pdb
+C:\Users\leand\Downloads\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.genruntimeconfig.cache
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.exe
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.deps.json
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.runtimeconfig.json
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.dll
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.pdb
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.csproj.CopyComplete
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.dll
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.pdb
+C:\Users\leand\OneDrive\Escritorio\Ultima version\Obli version lea nuevo\Obligatorio 3.0 con program (LH)\Obligatorio 3.0\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.genruntimeconfig.cache
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.exe
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.deps.json
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.runtimeconfig.json
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.dll
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\InterfazConsola\bin\Debug\netcoreapp3.1\InterfazConsola.pdb
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\InterfazConsola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\InterfazConsola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.csproj.CopyComplete
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.dll
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.pdb
+C:\Users\leand\OneDrive\Escritorio\Obligatorios\Obli 1 - P2\Obligatorio\Obligatorio\Obligatorio\Obligatorio\InterfazConsola\obj\Debug\netcoreapp3.1\InterfazConsola.genruntimeconfig.cache

@@ -1,0 +1,55 @@
+﻿<h1>Agregar plato a mi servicio</h1>
+
+<form method="post" id="formRegistro">
+
+    <input type="text" name="id" value="@ViewBag.Servicios.Id" hidden />
+
+    <label>Cantidad</label>
+    <input type="number" id="cantidad" name="cantidad" />
+    <span id="avisoCantidad" class="text-danger"></span><br />
+
+
+    <label>Seleccione su plato</label>
+    <select name="plato" id="select">
+        <option value="0" disabled selected>Seleccione un plato</option>
+        @foreach (var plato in ViewBag.Platos)
+        {
+            <option value="@plato.Id">@plato.Nombre - @plato.Precio</option>
+        }
+    </select>
+    <span id="avisoSelect" class="text-danger"></span><br />
+
+    <input type="submit" value="Agregar" />
+</form>
+@ViewBag.mensaje 
+
+<script>
+
+    document.querySelector("#formRegistro").addEventListener('submit', validarDatos);
+
+    function validarDatos(viajeDatos) {
+
+        viajeDatos.preventDefault();
+
+        let cantidad = document.querySelector("#cantidad").value;
+        let plato = document.querySelector("#select").value;
+
+        let platoValido = false;
+        let selectValido = false;
+
+        if (cantidad != "" && cantidad>0) { platoValido = true; } else { document.querySelector("#avisoCantidad").innerHTML = "Error al ingresar la cantidad" }
+        if (validarselect(plato)) { selectValido = true; } else { document.querySelector("#avisoSelect").innerHTML = "Debe indicar un plato" }
+
+
+        if (platoValido && selectValido) {
+            this.submit();
+        }
+    }
+
+    function validarselect(x) {
+        if (x == "#") {
+            return false;
+        }
+        return true;
+    }
+</script>

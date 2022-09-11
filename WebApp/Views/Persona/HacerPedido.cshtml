@@ -1,0 +1,15 @@
+﻿<h1>Hacer un nuevo pedido</h1>
+<hr /><br />
+<h3>Seleccione opcion de pedido</h3>
+<br />
+
+<form method="post">
+    <select name="slcTipoServ">
+        <option value="#" selected disabled>Seleccionar opcion</option>
+        <option value="OpcLocal">Local</option>
+        <option value="OpcDelivery">Delivery</option>
+    </select>
+    <input type="submit" value="Alta pedido" />
+</form>
+
+<p>@ViewBag.mensaje</p>

@@ -1,0 +1,51 @@
+﻿<h1>Realizar pedido en el local</h1>
+
+<form method="post" id="formDatos">
+    <h3>Ingrese los datos necesarios</h3>
+
+    <label>Ingrese cantidad de comensales:</label>
+    <input type="number" id="cantComensales" name="cantComensales" /><br />
+    <span id="avisoCantComensales" class="text-danger"></span><br />
+
+    <label>Ingrese numero de mesa:</label>
+    <input type="number" id="numMesa" name="numMesa" /><br />
+    <span id="avisoNumMesa" class="text-danger"></span><br />
+
+
+    <input type="submit" value="Crear pedido" />
+</form>
+
+@ViewBag.mensaje
+
+
+<script>
+
+    document.querySelector("#formDatos").addEventListener('submit', validarDatos);
+
+    function validarDatos(viajeDatos) {
+
+        viajeDatos.preventDefault();
+
+        let cantComensales = document.querySelector("#cantComensales").value;
+        let numMesa = document.querySelector("#numMesa").value;
+
+        let cantComensalesValido = false;
+        let numMesaValido = false;
+
+        if (cantComensales != "" && numeroValido(cantComensales)) { cantComensalesValido = true; } else { document.querySelector("#avisoCantComensales").innerHTML = "La cantidad de comensales no es valida" }
+        if (numMesa != "" && numeroValido(numMesa)) { numMesaValido = true; } else { document.querySelector("#avisoNumMesa").innerHTML = "El numero de mesa no es valido" }
+
+
+        if (cantComensalesValido && numMesa) {
+            this.submit();
+        }
+    }
+
+    function numeroValido(x) {
+
+        if (x > 0) {
+            return true;
+        }
+        return false;
+    }
+</script>

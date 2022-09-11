@@ -1,0 +1,10 @@
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2\Dominio\bin\Release\netcoreapp3.1\Dominio.deps.json
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2\Dominio\bin\Release\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2\Dominio\bin\Release\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2\Dominio\obj\Release\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2\Dominio\obj\Release\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2\Dominio\obj\Release\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2\Dominio\obj\Release\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2\Dominio\obj\Release\netcoreapp3.1\Dominio.dll
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2\Dominio\obj\Release\netcoreapp3.1\Dominio.pdb
+C:\Users\leand\OneDrive\Escritorio\P2-OBLI 2\Dominio\obj\Release\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache

@@ -1,0 +1,150 @@
+﻿@model Dominio.Persona
+
+@{
+    ViewData["Title"] = "Registrar";
+}
+
+<h1>Registrarme</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Registrar" id="formRegistro">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Nombre" class="control-label"></label>
+                <input asp-for="Nombre" id="txtNombre" class="form-control" />
+                <span id="avisoNombre" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Apellido" class="control-label"></label>
+                <input asp-for="Apellido" id="txtApellido" class="form-control" />
+                <span id="avisoApellido" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label">Username</label>
+                <input type="text" name="username" id="txtUsername" class="form-control" />
+                <span id="avisoUser" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label">Password</label>
+                <input type="password" name="password" id="txtPassword" class="form-control" />
+                <span id="avisoPass" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Registrarme" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<p>@ViewBag.mensaje</p>
+<div>
+    <a asp-action="Index">Ver lista de clientes</a>
+</div>
+
+@section Scripts {
+
+
+    <script>
+        document.querySelector("#formRegistro").addEventListener('submit', validarDatos);
+
+        function validarDatos(viajeDatos) {
+
+            viajeDatos.preventDefault();
+
+            let nombre = document.querySelector("#txtNombre").value;
+            let apellido = document.querySelector("#txtApellido").value;
+            let user = document.querySelector("#txtUsername").value;
+            let pass = document.querySelector("#txtPassword").value;
+
+            let nombreValido = false;
+            let apellidoValido = false;
+            let userValido = false;
+            let passValido = false;
+
+            if (nombre != "" && nombreSinNums(nombre)) { nombreValido = true; } else { document.querySelector("#avisoNombre").innerHTML = "Error con datos ingresados en nombre" }
+            if (apellido != "" && apellidoSinNums(apellido)) { apellidoValido = true; } else { document.querySelector("#avisoApellido").innerHTML = "Error con datos ingresados en apellido" }
+            if (user != "") { userValido = true; } else { document.querySelector("#avisoUser").innerHTML = "Error con datos ingresados en username" }
+            if (pass != "" && validarContraseña(pass)) { passValido = true; } else { document.querySelector("#avisoPass").innerHTML = "Error con datos ingresados en password" }
+
+
+            if (nombreValido && apellidoValido && userValido && passValido)
+            {
+                this.submit();
+            }
+        }
+
+            function nombreSinNums(nombre) {
+                let contadorNum = 0;
+                let bandera = true;
+
+                for (let n = 0; n < nombre.length; n++) {
+                    let codigo = nombre.charCodeAt(n);
+
+                    if (codigo >= 48 && codigo <= 57) {
+                        contadorNum++;
+                    }
+                }
+                if (contadorNum > 0) {
+                     bandera = false
+                }
+                return bandera;
+            }
+
+            function apellidoSinNums(apellido) {
+                let contadorNum = 0;
+                let bandera = true;
+
+                for (let a = 0; a < apellido.length; a++) {
+                    let codigo = apellido.charCodeAt(a);
+
+                    if (codigo >= 48 && codigo <= 57) {
+                        contadorNum++;
+                    }
+                }
+                if (contadorNum > 0) {
+                    bandera = false
+                }
+                return bandera;
+            }
+
+        function validarContraseña(pass) {
+            
+            let valor = true;
+            let contadorMayus = 0;
+            let contadorNum = 0;
+            let contadorMinus = 0;
+
+
+            if (pass.length < 6) {
+                valor = false;
+            }
+            for (let i = 0; i < pass.length; i++) {
+                let codigo = pass.charCodeAt(i);
+
+                if (codigo >= 65 && codigo <= 90) {
+                    contadorMayus++;
+                } else if (codigo >= 97 && codigo <= 122) {
+                    contadorMinus++;
+                } else if (codigo >= 48 && codigo <= 57) {
+                    contadorNum++;
+                }
+            }
+            if (contadorMayus == 0 || contadorMinus == 0 || contadorNum == 0) {
+                valor = false;
+            }
+            return valor;
+        }
+
+
+        
+    </script>
+   
+
+
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

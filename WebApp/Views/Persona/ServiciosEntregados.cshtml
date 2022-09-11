@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Dominio.Servicio>
+
+@{
+    ViewData["Title"] = "ServiciosEntregados";
+}
+
+<h1>Servicios entregados</h1>
+
+@ViewBag.mensaje
+@if (Model != null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Fecha)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PrecioFinal)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Fecha)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PrecioFinal)
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+}

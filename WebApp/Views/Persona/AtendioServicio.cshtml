@@ -1,0 +1,75 @@
+﻿@model IEnumerable<Dominio.Servicio>
+
+@{
+    ViewData["Title"] = "AtendioServicio";
+}
+
+<h1>Atendio servicios</h1>
+
+<form method="post" id="formRegistro">
+    <label>Fecha inicial</label>
+    <input type="date" id="fechaUno" name="f1"><br />
+    <span id="avisoF1" class="text-danger"></span>
+    <br />
+
+    <label>Fecha final</label>
+    <input type="date" id="fechaDos" name="f2"><br />
+    <span id="avisoF2" class="text-danger"></span>
+    <br />
+
+    <input type="submit" value="Buscar" />
+</form>
+
+@if (Model != null)
+{
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Fecha)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PrecioFinal)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fecha)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecioFinal)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+}
+@ViewBag.mensaje
+
+<script>
+
+    document.querySelector("#formRegistro").addEventListener('submit', validarDatos);
+
+    function validarDatos(viajeDatos) {
+
+        viajeDatos.preventDefault();
+
+        let f1 = document.querySelector("#fechaUno").value;
+        let f2 = document.querySelector("#fechaDos").value;
+
+        let f1Valida = false;
+        let f2Valida = false;
+
+        if (f1 != "") { f1Valida = true; } else { document.querySelector("#avisoF1").innerHTML = "Las fecha inicial no pueden ser vacias, debe ingresar una fecha" }
+        if (f2 != "") { f2Valida = true; } else { document.querySelector("#avisoF2").innerHTML = "Las fecha final no pueden ser vacias, debe ingresar una fecha" }
+
+
+        if (f1Valida && f2Valida) {
+            this.submit();
+        }
+    }
+</script>

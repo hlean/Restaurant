@@ -1,0 +1,49 @@
+﻿<h1>Realizar pedido delivery</h1>
+
+<form method="post" id="formDatos">
+    <h3>Ingrese los datos necesarios</h3>
+
+    <label>Ingrese su direccion:</label>
+    <input type="text" id="txtDireccion" name="direccion" /><br />
+    <span id="avisoDireccion" class="text-danger"></span><br />
+
+    <label>Ingrese distancia:</label>
+    <input type="number" id="numDistacia" name="distancia" /><br />
+    <span id="avisoDistancia" class="text-danger"></span><br />
+
+
+    <input type="submit" value="Crear pedido" />
+</form>
+@ViewBag.mensaje
+
+<script>
+
+    document.querySelector("#formDatos").addEventListener('submit', validarDatos);
+
+    function validarDatos(viajeDatos) {
+
+        viajeDatos.preventDefault();
+
+        let direccion = document.querySelector("#txtDireccion").value;
+        let distancia = document.querySelector("#numDistacia").value;
+
+        let direccionValida = false;
+        let distanciaValido = false;
+
+        if (direccion != "") { direccionValida = true; } else { document.querySelector("#avisoDireccion").innerHTML = "La direccion no es valida" }
+        if (distancia != "" && numeroValido(distancia)) { distanciaValido = true; } else { document.querySelector("#avisoDistancia").innerHTML = "La distancia no es valida" }
+
+
+        if (direccionValida && distanciaValido) {
+            this.submit();
+        }
+    }
+
+    function numeroValido(x) {
+
+        if (x > 0) {
+            return true;
+        }
+        return false;
+    }
+</script>

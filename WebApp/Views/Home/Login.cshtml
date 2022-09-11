@@ -1,0 +1,51 @@
+﻿
+<h1>Login</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post"  id="formRegistro">
+
+            <div class="form-group">
+                <label class="control-label">Username</label>
+                <input type="text" name="username" id="txtUsername" class="form-control" />
+                <span id="avisoUser" class="text-danger"></span>
+
+            </div>
+            <div class="form-group">
+                <label class="control-label">Password</label>
+                <input type="password" name="password" id="txtPassword" class="form-control" />
+                <span id="avisoPass" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <input type="submit" value="Login" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<p>@ViewBag.msg</p>
+
+<script>
+        document.querySelector("#formRegistro").addEventListener('submit', validarDatos);
+
+        function validarDatos(viajeDatos) {
+
+            viajeDatos.preventDefault();
+
+            let user = document.querySelector("#txtUsername").value;
+            let pass = document.querySelector("#txtPassword").value;
+
+            let userValido = false;
+            let passValido = false;
+
+            if (user != "") { userValido = true; } else { document.querySelector("#avisoUser").innerHTML = "Error con datos ingresados en username" }
+            if (pass != "") { passValido = true; } else { document.querySelector("#avisoPass").innerHTML = "Error con datos ingresados en password" }
+
+
+            if (userValido && passValido)
+            {
+                this.submit();
+            }
+        }
+</script>
